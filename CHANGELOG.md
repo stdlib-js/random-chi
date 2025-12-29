@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-27)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`73f0550`](https://github.com/stdlib-js/stdlib/commit/73f055020dcc55a92d32c1cba59a7143d833813f) - **docs:** update dtype type _(by Athan Reines)_
 -   [`0f7ed03`](https://github.com/stdlib-js/stdlib/commit/0f7ed03a68da6c1c63b87833baa7c05fd2ba5687) - **feat:** add `random/chi` _(by Athan Reines)_
 
 </details>
